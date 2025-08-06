@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BiomechatronicsRookie
-- 👀 I’m interested in Control Egineering applied to Biomedical Engineering and Rehabilitation Technologies
-- 🌱 I’m currently learning how to design controllers and estimators for any applications
-- 💞️ I’m looking to collaborate on everything indeed
+- 👀 I’m interested in Control Egineering and Robotics, both in simulation and physical setups!
+- 🌱 I’m currently learning C++ and ROS2. Also playing a bit with Reinforcement Learning
+- 💞️ I’m looking to explore every aspect of technologies used in Robotics environments!
 - 📫 How to reach me victor.carmona.ortiz@gmail.com
 
 <!---
